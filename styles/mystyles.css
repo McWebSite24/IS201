@@ -1,0 +1,39 @@
+.lightblue {
+        font-weight: bold;
+        color: rgb(97, 97, 226);
+}
+
+.byu {
+    color: blue;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.money {
+    font-weight: bold;
+    color: green;
+}
+
+.orange {
+    color: rgb(167, 71, 7);
+}
+
+.bold {
+    font-weight: bold;
+    color: teal;
+}
+
+.background {
+    background-color: rgb(184, 194, 194)
+}
+
+.caption {
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+}
+
+.love {
+    color: rgb(199, 20, 124);
+    font-weight: bold;
+}
