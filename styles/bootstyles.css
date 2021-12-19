@@ -85,3 +85,9 @@ body {
     text-align: center;
     size: 22px;
 }
+
+.black {
+    font-weight: bold;
+    color: black;
+    font: medium;
+}
